@@ -1,0 +1,3 @@
+Goal: Welcome myself into the pygame library
+Task:
+    1. Starter Screen into different files
