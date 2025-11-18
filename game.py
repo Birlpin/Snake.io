@@ -5,7 +5,6 @@ class game():
     def __init__(self):
         self.gaming = False
         #! use a 0,1 formate for a list in list for food logic for snake game
-            # TODO. create tile allocation for the board for render purposes
             # TODO. add snake that will represent a 2 in list in list
             # TODO. add constant movement in direction last touched (no movement until arrow key pressed)
 
